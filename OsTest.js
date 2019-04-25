@@ -10,4 +10,4 @@ var FreeMemory = os.freemem
 //If we want to Concat the var to string then istead of using the + sign use the ` with placholder
 
 console.log(`Total Memory ${TotalMemory}`)
-console.log(`Free Memory ${FreeMemory}`)
+console.log(`     Memory ${FreeMemory}`)
